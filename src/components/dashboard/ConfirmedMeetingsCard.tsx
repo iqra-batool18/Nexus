@@ -1,8 +1,8 @@
 import React from "react";
 import { Calendar, MapPin, Clock, ArrowRight, Video } from "lucide-react";
-import { Card, CardBody, CardHeader } from "../../components/ui/Card";
-import { Badge } from "../../components/ui/Badge";
-import { Button } from "../../components/ui/Button";
+import { Card, CardBody, CardHeader } from "../ui/Card";
+import { Badge } from "../ui/Badge";
+import { Button } from "../ui/Button";
 import { Link } from "react-router-dom";
 import { Meeting } from "../../types/calendar";
 
